@@ -81,3 +81,4 @@ Vacation Planning: Tourists can quickly compare slope difficulty, elevation, and
 Regional Competitiveness: Governments and tourism boards can analyze global standing.
 
 🖼️ Screenshots/ Demo
+Dashboard Link: https://github.com/Kumarabhishek077/SKY-DASHBOARD/blob/main/Snapshot%20of%20the%20Dahbaord.png
