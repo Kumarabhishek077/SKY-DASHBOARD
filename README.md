@@ -79,3 +79,5 @@ Marketing Optimization: Travel companies can match customer profiles (families, 
 Strategic Expansion: Helps identify underdeveloped regions with high tourism potential.
 Vacation Planning: Tourists can quickly compare slope difficulty, elevation, and ski features.
 Regional Competitiveness: Governments and tourism boards can analyze global standing.
+
+🖼️ Screenshots/ Demo
